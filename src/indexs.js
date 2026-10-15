@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "wash clothes ",
+    "title": "eat food",
     "completed": false
   },
   {
@@ -17,11 +17,6 @@
   {
     "id": 4,
     "title": "i want to eat fuf",
-    "completed": false
-  },
-  {
-    "id": 5,
-    "title": "i want to eat iayn",
     "completed": false
   }
 ]
